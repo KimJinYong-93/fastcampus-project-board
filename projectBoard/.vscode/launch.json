@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjectBoardApplication<projectBoard>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fastcampus.projectBoard.ProjectBoardApplication",
+            "projectName": "projectBoard",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
